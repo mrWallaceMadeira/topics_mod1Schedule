@@ -1,4 +1,4 @@
-# Topics in STEAM: Mod 1 schedule&nbsp;:calendar:
+# Topics in STEAM&nbsp;:calendar:
 
 ### Course overview 
 Topics in STEAM will focus on the unqiue and complex challenges posed by infectious diseases.\
