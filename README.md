@@ -9,5 +9,5 @@ Now you get a chance to design a creative solution to one of these many problems
   - [x] Develop thorough research skills 
   - [x] Learn to develop solutions via design thinking 
   - [x] Fail with pride, reflect & move toward better solutions
-  - [x] 
+
 
