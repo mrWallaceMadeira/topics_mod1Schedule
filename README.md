@@ -12,7 +12,7 @@
   - [x] Develop thorough research skills 
   - [x] Learn to develop solutions via design thinking 
   - [x] Fail with pride, reflect & move toward better solutions
-### Tools&nbsp;:wrench:
+### Tools
 You'll learn how to use (or improve on existing skills with the following):
   - [x] Adobe Illustrator
   - [x] TinkerCAD
@@ -20,11 +20,11 @@ You'll learn how to use (or improve on existing skills with the following):
 ### Projects & structure
 The main focus is to create & present your unique solution.
 You will have three types of assingments to help you get there:
-  1. tools
+  1. tools based
       - these assigments will be based off in class tutorials
-  2. research & data collection
+  2. research & data collection 
       - you'll research and write about it (citing sources of course)
-  3. self reflection
+  3. writing & self reflection 
       - journal entries in OneNote
 
 ### Schedule&nbsp;:calendar:
@@ -66,12 +66,14 @@ You will have three types of assingments to help you get there:
   m 9/28 - th 10/1|testing & iterating|reflections 8 - 11 & work on presentations
   f 10/2|:tada:&nbsp;**final presentations**&nbsp;:tada:|:sleeping:
   
- ### Un-fun stuff: grading & cheating
- This class should be fun and collaborative.
-  1. **Do not** directly copy designs or solutions from your classmates or the Interweb.
-  2. **Always** cite your sources. If you did something cool, you'd want credit for it too.
-  
+### Un-fun stuff: grading & cheating
+ ###### Cheating
+  This class should be fun and collaborative.
+    1. **Do not** directly copy designs or solutions from your classmates or the Interweb.
+    2. **Always** cite your sources. If you did something cool, you'd want credit for it too.
   Still confused on cheating? It looks like [this](https://static01.nyt.com/images/2012/10/23/sports/YJPARMSTRONG1/YJPARMSTRONG1-superJumbo.jpg?quality=90&auto=webp)
+  
+  
   
  
  
