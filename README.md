@@ -3,8 +3,8 @@
 ### Course overview 
 Topics in STEAM will focus on the unqiue and complex challenges posed by infectious diseases.\
 As you're well aware, bacteria and viruses can change the human body, daily life & even society at large.\
-Now you get a chance to design a creative solution to one of these many problems.
-###### Yes, Charlie, it's your golden ticket to STEAM fame
+Now you, yes you, get a chance to design a creative solution to one of these many problems!
+###### Charlie, it's your golden ticket to STEAM fame
 ![goldenTicket](goldenTicket.jpg)
 
 ### Objectives
@@ -13,16 +13,24 @@ Now you get a chance to design a creative solution to one of these many problems
   - [x] Learn to develop solutions via design thinking 
   - [x] Fail with pride, reflect & move toward better solutions
 ### Tools&nbsp;:wrench:
-You'll learn how to use (or improve on existing skills with the following
-  - [x] Addobe Illustrator
+You'll learn how to use (or improve on existing skills with the following):
+  - [x] Adobe Illustrator
   - [x] TinkerCAD
-  - [x] ArcGIS
+  - [x] arcGIS
+### Projects & structure
+The main focus is to create & present your unique solution.
+You will have three types of assingments to help you get there:
+  1. tools
+    - these assigments will be based off in class tutorials
+  2. research & data collection
+    - you'll research and write about it (citing sources of course)
+  3. self reflection
+    - journal entries in OneNote
+
 ### Schedule&nbsp;:calendar:
   
   ###### Key
   - [x] EPOD = Elements & principles of design
-  
-  
   
   ###### Week 1
   |date|class topics|homework|
@@ -58,6 +66,6 @@ You'll learn how to use (or improve on existing skills with the following
   m 9/28 - th 10/1|testing & iterating|reflections 8 - 11 & work on presentations
   f 10/2|:tada:&nbsp;**final presentations**&nbsp;:tada:|:sleeping:
   
-  
+ ### Un-fun stuff: grading & cheating
  
   
