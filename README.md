@@ -21,11 +21,11 @@ You'll learn how to use (or improve on existing skills with the following):
 The main focus is to create & present your unique solution.
 You will have three types of assingments to help you get there:
   1. tools
-    - these assigments will be based off in class tutorials
+      - these assigments will be based off in class tutorials
   2. research & data collection
-    - you'll research and write about it (citing sources of course)
+      - you'll research and write about it (citing sources of course)
   3. self reflection
-    - journal entries in OneNote
+      - journal entries in OneNote
 
 ### Schedule&nbsp;:calendar:
   
