@@ -26,6 +26,7 @@ You will have three types of assingments to help you get there:
       - you'll research and write about it (citing sources of course)
   3. writing & self reflection 
       - journal entries in OneNote
+:pushpin:&nbsp; Your final creation and presentation
 
 ### Schedule&nbsp;:calendar:
   
@@ -74,8 +75,16 @@ You will have three types of assingments to help you get there:
   
  Still confused on cheating? It looks like [this](https://static01.nyt.com/images/2012/10/23/sports/YJPARMSTRONG1/YJPARMSTRONG1-superJumbo.jpg?quality=90&auto=webp)
  ###### Grading
-     
-  
+ Key
+ - [x] C = graded for completion
+ - [x] 
+ |Item|Points|Type|
+ |---|------|-----|
+ homework & reflections| 1pt./day = 23pts. total|completion
+ participation|1 pt./day = 23pts. total|completion
+ presentation|50 pts.|rubric
+ finished product|50 pts.|rubric
+ 
   
   
  
