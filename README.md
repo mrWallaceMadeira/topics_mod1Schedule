@@ -70,7 +70,9 @@ You will have three types of assingments to help you get there:
  This class should be fun and collaborative.
   1. **Do not** directly copy designs or solutions from your classmates or the Interweb.
   2. **Always** cite your sources. If you did something cool, you'd want credit for it too.
-     - Still confused on cheating? It looks like [this](https://static01.nyt.com/images/2012/10/23/sports/YJPARMSTRONG1/YJPARMSTRONG1-superJumbo.jpg?quality=90&auto=webp)
+  
+  Still confused on cheating? It looks like [this](https://static01.nyt.com/images/2012/10/23/sports/YJPARMSTRONG1/YJPARMSTRONG1-superJumbo.jpg?quality=90&auto=webp)
+  
  
  
  
