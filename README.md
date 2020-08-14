@@ -17,7 +17,6 @@ You'll learn how to use (or improve on existing skills with the following
 ### Schedule&nbsp;:calendar:
 
   ###### Week 1
-  date | classwork | homework
-  ---- | ----------| ----------
-  this | is        | a table
-
+ |date|class topics|homework|
+  ----|------------|--------|
+  w 9/2 |defining infection|
