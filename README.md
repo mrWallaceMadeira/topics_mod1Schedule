@@ -17,17 +17,15 @@ You'll learn how to use (or improve on existing skills with the following):
   - [x] Adobe Illustrator
   - [x] TinkerCAD
   - [x] arcGIS
-### Projects & structure
+### Daily work
 The main focus is to create & present your unique solution.
-You will have three types of assingments to help you get there:
+You will have three types of daily assignments to help you get there:
   1. tools based
       - these assigments will be based off in class tutorials
   2. research & data collection 
       - you'll research and write about it (citing sources of course)
   3. writing & self reflection 
       - journal entries in OneNote
-:pushpin:&nbsp; Your final creation and presentation
-
 ### Schedule&nbsp;:calendar:
   
   ###### Key
@@ -36,9 +34,9 @@ You will have three types of assingments to help you get there:
   ###### Week 1
   |date|class topics|homework|
   |----|------------|--------|
-  w 9/2|defining infection|hw
-  th 9/3|needs of an infected community|hw
-  f 9/4|elements and principles of design|hw
+  w 9/2|defining infection: personal, local, global|research & reflect
+  th 9/3|curing infections: needs of an infected community & globe|hw
+  f 9/4|how to design a solution: EPOD|EPOD assignment
   ###### Week 2
   |date|class topics|homework|
   |----|------------|--------|
@@ -50,9 +48,9 @@ You will have three types of assingments to help you get there:
   ###### Week 3
   |date|class topics|homework|
   |----|------------|--------|
-  m 9/14|response to infection: global|global response research
-  tu 9/15|how to design a solution|EPOD assingment 1
-  w 9/16|how evaluate a solution|EPOD assignment 2
+  m 9/14|tutorial: arcGIS|arcGIS assignment
+  tu 9/15|response to infection: global|global response research
+  w 9/16|how to evaluate a solution: statistics|stats assingment 1
   th 9/17|ideating|reflection 1
   f 9/18|ideating|reflection 2
   ###### Week 4
@@ -61,11 +59,11 @@ You will have three types of assingments to help you get there:
   |----|------------|--------|
   m 9/21 - f 9/25|ideating & iterating|reflections 3 - 7
   ###### Week 5
-  :pushpin: Final presentations **due f 10/2**
+  :pushpin: Final presentations & finished products **due f 10/2**
   |date|class topics|homework|
   |----|------------|--------|
   m 9/28 - th 10/1|testing & iterating|reflections 8 - 11 & work on presentations
-  f 10/2|:tada:&nbsp;**final presentations**&nbsp;:tada:|:sleeping:
+  f 10/2|:tada:&nbsp;**final presentations**|:sleeping:
   
 ### Un-fun stuff: grading & cheating
  ###### Cheating
@@ -82,7 +80,7 @@ You will have three types of assingments to help you get there:
  presentation|50|rubric
  finished product|50|rubric
  extra credit|6|completion
- **total**|150|/
+ **total**|150| ~
  
   
   
