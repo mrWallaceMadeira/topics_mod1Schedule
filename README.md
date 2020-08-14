@@ -77,10 +77,10 @@ You will have three types of assingments to help you get there:
  ###### Grading
  |Item|Points|Type|
  |---|------|-----|
- homework & reflections| 1pt./day = 23pts. total|completion
- participation|1 pt./day = 23pts. total|completion
- presentation|50 pts.|rubric
- finished product|50 pts.|rubric
+ homework & reflections|1/day = 23 total|completion
+ participation|1/day = 23 total|completion
+ presentation|50|rubric
+ finished product|50|rubric
  
   
   
