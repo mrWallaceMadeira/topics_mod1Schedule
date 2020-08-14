@@ -1,4 +1,4 @@
-# Topics in STEAM:&nbsp;:art:&nbsp;:test_tube:
+# Topics in STEAM&nbsp;:nut_and_bolt:
 
 ### Course overview 
 Topics in STEAM will focus on the unqiue and complex challenges posed by infectious diseases.\
