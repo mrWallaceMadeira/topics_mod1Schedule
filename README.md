@@ -1,4 +1,4 @@
-# Topics in&nbsp;:test_tube:&nbsp;STEAM&nbsp;:art:
+# Topics in STEAM&nbsp;:art:&nbsp;:test_tube:
 
 ### Course overview 
 Topics in STEAM will focus on the unqiue and complex challenges posed by infectious diseases.\
