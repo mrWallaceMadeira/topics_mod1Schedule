@@ -18,6 +18,6 @@ You'll learn how to use (or improve on existing skills with the following
 
   ###### Week 1
   date | classwork | homework
-  ----------------------------
+  ---- | ----------| ----------
   this | is        | a table
 
