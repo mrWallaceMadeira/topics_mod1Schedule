@@ -17,7 +17,7 @@ You'll learn how to use (or improve on existing skills with the following
 ### Schedule&nbsp;:calendar:
 
   ###### Week 1
- |date|class topics|homework|
+  |date|class topics|homework|
   ----|------------|--------|
   w 9/2|defining infection|hw
   th 9/3|needs of an infected community|hw
@@ -34,4 +34,11 @@ You'll learn how to use (or improve on existing skills with the following
   |date|class topics|homework|
   ----|------------|--------|
   m 9/14|response to infection: global|hw
-  tu 9/15|how to design a solution|
+  tu 9/15|how to design a solution|hw
+  we 9/16|how evaluate a solution|hw
+  th 9/17|ideating|hw
+  fr 9/18|ideating|hw
+  ###### Week 4
+  
+ 
+  
