@@ -4,7 +4,7 @@
 Topics in STEAM will focus on the unqiue and complex challenges posed by infectious diseases.\
 As you're well aware, bacteria and viruses can change the human body, daily life & even society at large.\
 Now you get a chance to design a creative solution to one of these many problems.
-###### You, reading the syllabus
+###### Yes, Charlie, it's your golden ticket to STEAM fame
 ![goldenTicket](goldenTicket.jpg)
 
 ### Objectives
