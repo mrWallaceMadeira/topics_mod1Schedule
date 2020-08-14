@@ -67,5 +67,4 @@ You will have three types of assingments to help you get there:
   f 10/2|:tada:&nbsp;**final presentations**&nbsp;:tada:|:sleeping:
   
  ### Un-fun stuff: grading & cheating
- 
-  
+ Don't know what cheating is? It looks like [this](https://static01.nyt.com/images/2012/10/23/sports/YJPARMSTRONG1/YJPARMSTRONG1-superJumbo.jpg?quality=90&auto=webp)
