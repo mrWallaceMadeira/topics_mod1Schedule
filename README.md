@@ -81,6 +81,8 @@ You will have three types of assingments to help you get there:
  participation|1/day = 23 total|completion
  presentation|50|rubric
  finished product|50|rubric
+ extra credit|6|completion
+ **total**|150|/
  
   
   
