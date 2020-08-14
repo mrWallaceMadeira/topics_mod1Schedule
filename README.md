@@ -1,4 +1,4 @@
-# Topics in STEAM&nbsp;:wrench:
+# Topics in&nbsp;:test_tube:&nbsp;STEAM&nbsp;:art:
 
 ### Course overview 
 Topics in STEAM will focus on the unqiue and complex challenges posed by infectious diseases.\
