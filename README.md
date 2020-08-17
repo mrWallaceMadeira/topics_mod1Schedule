@@ -76,7 +76,7 @@ You will have three types of daily assignments to help you get there:
  |Item|Points|Type|
  |---|------|-----|
  homework, reflections & research|1/day = 23 total|completion
- participation|1/day = 23 total|completion
+ classroom (or online) engagement|1/day = 23 total|completion
  presentation|50|rubric
  finished product|50|rubric
  extra credit|6|completion
