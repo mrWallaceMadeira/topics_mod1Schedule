@@ -54,7 +54,7 @@ You will have three types of daily assignments to help you get there:
   th 9/17|ideating|reflection 1
   f 9/18|ideating|reflection 2
   ###### Week 4
-  :pushpin: Draft of final presentations **due f 9/25**
+  :pushpin: Draft of final presentations & products **due f 9/25**
   |date|class topics|homework|
   |----|------------|--------|
   m 9/21 - f 9/25|ideating & iterating|reflections 3 - 7
