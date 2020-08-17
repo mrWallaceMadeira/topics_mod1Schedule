@@ -34,22 +34,22 @@ You will have three types of daily assignments to help you get there:
   ###### Week 1
   |date|class topics|homework|
   |----|------------|--------|
-  w 9/2|defining infection: personal, local, global|research & reflect
-  th 9/3|curing infections: needs of an infected community & globe|hw
-  f 9/4|how to design a solution: EPOD|EPOD assignment
+  w 9/2|defining infection: personal, local, global|research 1
+  th 9/3|defining the problem: community level barriers|research 2
+  f 9/4|designing the solution: EPOD|EPOD assignment
   ###### Week 2
   |date|class topics|homework|
   |----|------------|--------|
   m 9/7|tutorial: Illustrator|Illustrator assignment
-  tu 9/8|response to infection: individual|immune response research
+  tu 9/8|response to infection: individual|research 3 
   w 9/10|tutorial: TinkerCAD|TinkerCAD assignment
-  th 9/11|response to infection: community|community response research
+  th 9/11|response to infection: community| research 4
   f 9/12|tutorial: arcGIS|arcGIS assignment
   ###### Week 3
   |date|class topics|homework|
   |----|------------|--------|
   m 9/14|tutorial: arcGIS|arcGIS assignment
-  tu 9/15|response to infection: global|global response research
+  tu 9/15|response to infection: global|research 5
   w 9/16|how to evaluate a solution: statistics|stats assingment 1
   th 9/17|ideating|reflection 1
   f 9/18|ideating|reflection 2
@@ -75,7 +75,7 @@ You will have three types of daily assignments to help you get there:
  ###### Grading
  |Item|Points|Type|
  |---|------|-----|
- homework & reflections|1/day = 23 total|completion
+ homework, reflections & research|1/day = 23 total|completion
  participation|1/day = 23 total|completion
  presentation|50|rubric
  finished product|50|rubric
