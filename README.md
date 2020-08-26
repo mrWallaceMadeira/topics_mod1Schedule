@@ -27,29 +27,26 @@ You will have three types of daily assignments to help you get there:
   3. writing & self reflection 
       - journal entries in OneNote
 ### Schedule&nbsp;:calendar:
-  
-  ###### Key
-  - [x] EPOD = Elements & principles of design
-  
+    
   ###### Week 1
   |date|class topics|homework|
   |----|------------|--------|
-  w 9/2|defining infection: personal, local, global|research 1
-  th 9/3|defining the problem: community level barriers|research 2
-  f 9/4|designing the solution: EPOD|EPOD assignment
+  w 9/2|defining infection: personal|research 1
+  th 9/3|defining infection: local|research 2
+  f 9/4|defining infection: national|research 3
   ###### Week 2
   |date|class topics|homework|
   |----|------------|--------|
-  m 9/7|tutorial: Illustrator|Illustrator assignment
-  tu 9/8|response to infection: individual|research 3 
-  w 9/10|tutorial: TinkerCAD|TinkerCAD assignment
-  th 9/11|response to infection: community| research 4
-  f 9/12|tutorial: arcGIS|arcGIS assignment
+  m 9/7|&nbsp;:zzz:&nbsp;|&nbsp;:zzz:&nbsp;
+  tu 9/8|tutorial: Illustrator|Illustrator assignment 
+  w 9/10|tutorial: TinkerCAD|TinkerCAD assignment 
+  th 9/11|tutorial: arcGIS|arcGIS assignment
+  f 9/12|makerJam|make stuff
   ###### Week 3
   |date|class topics|homework|
   |----|------------|--------|
-  m 9/14|tutorial: arcGIS|arcGIS assignment
-  tu 9/15|response to infection: global|research 5
+  m 9/14|how to evaluate a solution: statistics|stats assignment
+  tu 9/15|how to evaluate a solution: design|research 5
   w 9/16|how to evaluate a solution: statistics|stats assingment 1
   th 9/17|ideating|reflection 1
   f 9/18|ideating|reflection 2
