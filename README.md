@@ -57,7 +57,7 @@ Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative sched
   |date|class topics|homework|
   |----|------------|--------|
   m 9/28 - th 10/1|testing & iterating|reflections 8 - 11 & work on presentations
-  f 10/2|:tada:&nbsp;**final presentations**|:sleeping:
+  f 10/2|:tada:&nbsp;**final presentations**|:zzz:
   
 ### Un-fun stuff: grading & cheating
  ###### Cheating
@@ -71,10 +71,10 @@ Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative sched
  |---|------|-----|
  homework, reflections & research|1/day = 22 total|completion
  classroom (or online) engagement|1/day = 22 total|completion
- midpoint presentation|25|rubric
- midpoint solution|25|rubric
- presentation|50|rubric
- solution|50|rubric
+ midpoint presentation|25|[rubric](https://themadeiraschool-my.sharepoint.com/:w:/r/personal/pwallace_madeira_org/Documents/STEAM/Grading/comprehensiveRubric.docx?d=w6fdb4f8f647f4143a9d020bb1f95653a&csf=1&web=1&e=vfpvEz)
+ midpoint solution|25|[rubric](https://themadeiraschool-my.sharepoint.com/:w:/r/personal/pwallace_madeira_org/Documents/STEAM/Grading/comprehensiveRubric.docx?d=w6fdb4f8f647f4143a9d020bb1f95653a&csf=1&web=1&e=vfpvEz)
+ presentation|50|[rubric](https://themadeiraschool-my.sharepoint.com/:w:/r/personal/pwallace_madeira_org/Documents/STEAM/Grading/comprehensiveRubric.docx?d=w6fdb4f8f647f4143a9d020bb1f95653a&csf=1&web=1&e=vfpvEz)
+ solution|50|[rubric](https://themadeiraschool-my.sharepoint.com/:w:/r/personal/pwallace_madeira_org/Documents/STEAM/Grading/comprehensiveRubric.docx?d=w6fdb4f8f647f4143a9d020bb1f95653a&csf=1&web=1&e=vfpvEz)
  extra credit|8|completion
  **total**|200| ~
  
