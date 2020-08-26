@@ -17,17 +17,13 @@ You'll learn how to use (or improve on existing skills with the following):
   - [x] Adobe Illustrator
   - [x] TinkerCAD
   - [x] arcGIS
-### Daily work
-The main focus is to create & present your unique solution.
-You will have three types of daily assignments to help you get there:
-  1. tools based
-      - these assigments will be based off in class tutorials
-  2. research & data collection 
-      - you'll research and write about it (citing sources of course)
-  3. writing & self reflection 
-      - journal entries in OneNote
-### Schedule&nbsp;:calendar:
+### Daily view
+Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative scheduled connection time is 8:20-8:40AM Eastern
+  - [x] I'll set up a Teams meeting for lessons & questions
+    - During lesson days, I'll talk for a bit then it will be open format discussion based
+    - During project days, you'll discuss what you've worked on / are stuck on & then you'll be free to work
     
+### Schedule&nbsp;:calendar:
   ###### Week 1
   |date|class topics|homework|
   |----|------------|--------|
@@ -42,12 +38,13 @@ You will have three types of daily assignments to help you get there:
   w 9/10|tutorial: TinkerCAD|TinkerCAD assignment 
   th 9/11|tutorial: arcGIS|arcGIS assignment
   f 9/12|makerJam|make stuff
+  
   ###### Week 3
   |date|class topics|homework|
   |----|------------|--------|
   m 9/14|how to evaluate a solution: statistics|stats assignment
-  tu 9/15|how to evaluate a solution: design|research 5
-  w 9/16|how to evaluate a solution: statistics|stats assingment 1
+  tu 9/15|how to evaluate a solution: design|design assignment
+  w 9/16|how to evaluate a solution: statistics|stats assingment
   th 9/17|ideating|reflection 1
   f 9/18|ideating|reflection 2
   ###### Week 4
