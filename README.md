@@ -37,7 +37,7 @@ Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative sched
   tu 9/8|tutorial: Illustrator|Illustrator assignment 
   w 9/10|tutorial: TinkerCAD|TinkerCAD assignment 
   th 9/11|tutorial: arcGIS|arcGIS assignment
-  f 9/12|makerJam|make stuff
+  f 9/12|play time!|make stuff
   
   ###### Week 3
   |date|class topics|homework|
