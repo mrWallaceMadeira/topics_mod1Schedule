@@ -69,11 +69,11 @@ Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative sched
  ###### Grading
  |Item|Points|Type|
  |---|------|-----|
- homework, reflections & research|1/day = 23 total|completion
- classroom (or online) engagement|1/day = 23 total|completion
+ homework, reflections & research|1/day = 22 total|completion
+ classroom (or online) engagement|1/day = 22 total|completion
  presentation|50|rubric
  finished product|50|rubric
- extra credit|6|completion
+ extra credit|8|completion
  **total**|150| ~
  
   
