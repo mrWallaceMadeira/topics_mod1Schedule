@@ -71,10 +71,12 @@ Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative sched
  |---|------|-----|
  homework, reflections & research|1/day = 22 total|completion
  classroom (or online) engagement|1/day = 22 total|completion
+ midpoint presentation|25|rubric
+ midpoint solution|25|rubric
  presentation|50|rubric
- finished product|50|rubric
+ solution|50|rubric
  extra credit|8|completion
- **total**|150| ~
+ **total**|200| ~
  
   
   
