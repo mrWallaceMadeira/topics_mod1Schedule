@@ -14,7 +14,6 @@
   - [x] Fail with pride, reflect & move toward better solutions
 ### Tools
 You'll learn how to use (or improve on existing skills with the following):
-  - [x] Adobe Illustrator
   - [x] TinkerCAD
   - [x] arcGIS
 ### Daily view
@@ -27,23 +26,23 @@ Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative sched
   ###### Week 1
   |date|class topics|homework|
   |----|------------|--------|
-  w 9/2|defining infection: personal|research 1
-  th 9/3|defining infection: local|research 2
-  f 9/4|defining infection: national|research 3
+  w 9/2|defining infection: personal|research assignment
+  th 9/3|defining infection: local|ditto
+  f 9/4|defining infection: national|ditto
   ###### Week 2
   |date|class topics|homework|
   |----|------------|--------|
   m 9/7|&nbsp;:zzz:&nbsp;|&nbsp;:zzz:&nbsp;
-  tu 9/8|tutorial: Illustrator|Illustrator assignment 
-  w 9/10|tutorial: TinkerCAD|TinkerCAD assignment 
+  f 9/12|engineering design process|design challenge assignment
+  tu 9/8|tutorial: TinkerCAD 1|TinkerCAD assignment 1
+  w 9/10|tutorial: TinkerCAD 2|TinkerCAD assignment 2
   th 9/11|tutorial: arcGIS|arcGIS assignment
-  f 9/12|play time!|make stuff
   
   ###### Week 3
   |date|class topics|homework|
   |----|------------|--------|
   m 9/14|how to evaluate a solution: statistics|stats assignment
-  tu 9/15|how to evaluate a solution: design|design assignment
+  tu 9/15|how to represent a solution: data visualization|data viz assignment
   w 9/16|how to evaluate a solution: statistics|stats assingment
   th 9/17|ideating|reflection 1
   f 9/18|ideating|reflection 2
@@ -51,12 +50,12 @@ Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative sched
   :pushpin: Draft of final presentations & products **due f 9/25**
   |date|class topics|homework|
   |----|------------|--------|
-  m 9/21 - f 9/25|ideating & iterating|reflections 3 - 7
+  m 9/21 - f 9/25|standup + ideating & iterating|reflections 3 - 7
   ###### Week 5
   :pushpin: Final presentations & finished products **due f 10/2**
   |date|class topics|homework|
   |----|------------|--------|
-  m 9/28 - th 10/1|testing & iterating|reflections 8 - 11 & work on presentations
+  m 9/28 - th 10/1|standup + testing & iterating|reflections 8 - 11 & work on presentations
   f 10/2|:tada:&nbsp;**final presentations**|:zzz:
   
 ### Un-fun stuff: grading & cheating
