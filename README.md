@@ -16,6 +16,7 @@
 You'll learn how to use (or improve on existing skills with the following):
   - [x] TinkerCAD
   - [x] arcGIS
+  - [x] Other data visualization tools (possibly)
 ### Daily view
 Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative scheduled connection time is 8:20-8:40AM Eastern
   - [x] I'll set up a Teams meeting for lessons & questions
@@ -43,9 +44,9 @@ Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative sched
   |----|------------|--------|
   m 9/14|how to evaluate a solution: statistics|stats assignment
   tu 9/15|how to represent a solution: data visualization|data viz assignment
-  w 9/16|how to evaluate a solution: statistics|stats assingment
+  w 9/16|day of play|make stuff
   th 9/17|ideating|reflection 1
-  f 9/18|ideating|reflection 2
+  f 9/18|standup + ideating|reflection 2
   ###### Week 4
   :pushpin: Draft of final presentations & products **due f 9/25**
   |date|class topics|homework|
