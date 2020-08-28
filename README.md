@@ -26,8 +26,8 @@ Class time is scheduled during C-block (1:15-2:30PM Eastern) & alternative sched
   ###### Week 1
   |date|class topics|homework|
   |----|------------|--------|
-  w 9/2|defining infection: personal|research assignment
-  th 9/3|defining infection: local|ditto
+  w 9/2|defining infection: immune|research assignment
+  th 9/3|defining infection: community|ditto
   f 9/4|defining infection: national|ditto
   ###### Week 2
   |date|class topics|homework|
